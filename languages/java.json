@@ -1,0 +1,15 @@
+{
+    "language": "java",
+    "compiled": true,
+    "compiler_exec": "javac",
+    "compiler_flags": [
+    "compiler_flags": [
+    ],
+    "exec": "",
+    "exec_flags": [
+    ],
+    "known_naming": [
+        "java"
+    ],
+    "file_extension": ".java"
+}
